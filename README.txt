@@ -9,3 +9,4 @@ in the app.component.ts file, so that might need to be edited before running the
 I tried to set an apiUrl through environments, but that didn't work. 
 - I found that displaying all 1000+ cars' data made the bar graph hard to read,
 so the page displays the average total speed for a company (based on all the models).
+- The Web API needs to be running before entering ng serve...
